@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-/* Header: */
+/* Header */
 .header ul{
     display: flex;
     justify-content: flex-end;
@@ -22,4 +22,20 @@
     /* justify-content: flex-start; */
     font-size: 24px;
     /* font: ; */
+}
+
+/* Main */
+.main{
+    display: flex;
+
+    color: #fff;
+    background-color: #1F2937;  
+}
+
+/* .main-container{
+} */
+
+.main-container button{
+    color: #fff;
+    background-color: blue;
 }
