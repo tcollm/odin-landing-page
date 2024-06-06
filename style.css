@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header: */
+.header ul{
+    display: flex;
+    justify-content: flex-end;
+
+    /* margin: 0;
+    padding: 0; */
+    color: #fff;
+    background-color: #1F2937;
+    list-style: none;
+    gap: 16px;
+    font-size: 18px;
+    /* font: ; */
+}
+
+.header ul li:first-child{
+    /* justify-content: flex-start; */
+    font-size: 24px;
+    /* font: ; */
+}
