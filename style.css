@@ -47,6 +47,19 @@ body{
     background-color: blue;
 }
 
+/* Sign up */
+.sign-up-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 64px;
+}
+
+.sign-up{
+    background-color: blue;
+}
+
 /* Footer */
 .footer{
     
