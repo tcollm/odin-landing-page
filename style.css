@@ -57,8 +57,19 @@ body{
 }
 
 .sign-up{
+    display: flex;
+
+    padding: 32px 72px;
+    gap: 64px;
     color: #fff;
     background-color: blue;
+}
+
+.sign-up button{
+    padding: 0px 16px;
+    color: #fff;
+    background-color: blue;
+    border-color: #fff;
 }
 
 /* Footer */
