@@ -44,7 +44,7 @@ body{
 
 .main-container button{
     color: #fff;
-    background-color: blue;
+    background-color: #3882F6;
 }
 
 /* Sign up */
@@ -62,13 +62,13 @@ body{
     padding: 32px 72px;
     gap: 64px;
     color: #fff;
-    background-color: blue;
+    background-color: #3882F6;
 }
 
 .sign-up button{
     padding: 0px 16px;
     color: #fff;
-    background-color: blue;
+    background-color: #3882F6;
     border-color: #fff;
 }
 
