@@ -100,8 +100,8 @@ body{
 
 /* FOOTER */
 .footer{
-    
     padding: 32px;
     color: #fff;
     background-color: #1F2937;
+    text-align: center;
 }
