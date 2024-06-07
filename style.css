@@ -24,8 +24,8 @@ body{
 .header ul{
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 
-    /* margin: 0; */
     padding-top: 8px;
     color: #fff;
     background-color: #1F2937;
@@ -35,6 +35,8 @@ body{
 }
 
 .header ul li:first-child{
+    margin-right: auto;
+
     font-size: 24px;
     font-weight: 600;
 }
