@@ -49,7 +49,21 @@ body{
 
 /* QUOTE */
 .quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 120px 180px;
     background-color: #E5E7EB;
+}
+
+.quote em{
+    font-size: 28px;
+}
+
+.quote strong{
+    font-size: 22px;
 }
 
 /* Sign up */
