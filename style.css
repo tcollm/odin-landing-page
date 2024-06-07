@@ -51,7 +51,7 @@ body{
     background-color: #3882F6;
     font-size: 16px;
     font-weight: 550;
-    padding: 8px;
+    padding: 8px 16px;
     border-radius: 8px;
 }
 
@@ -98,8 +98,10 @@ body{
     padding: 0px 16px;
     color: #fff;
     background-color: #3882F6;
-    border-color: #fff;
+    border: 2px solid #fff;
     border-radius: 8px;
+    font-size: 16px;
+    font-weight: 550;
 }
 
 /* FOOTER */
