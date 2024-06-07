@@ -60,6 +60,13 @@ body{
 .info{
     text-align: center;
 }
+.info h2{
+    padding: 32px;
+}
+
+.info .content-container{
+    display: flex;
+}
 
 /* QUOTE */
 .quote{
