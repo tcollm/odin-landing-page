@@ -66,10 +66,11 @@ body{
 }
 
 .quote em{
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .quote strong{
+    align-self: flex-end;
     font-size: 22px;
 }
 
