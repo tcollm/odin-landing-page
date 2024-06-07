@@ -34,15 +34,17 @@ body{
 /* MAIN */
 .main{
     display: flex;
+    flex-direction: column;
 
     color: #fff;
     background-color: #1F2937;  
 }
 
-/* .main-container{
-} */
+.main-container{
+    display: flex;
+}
 
-.main-container button{
+.main-content button{
     color: #fff;
     background-color: #3882F6;
 }
